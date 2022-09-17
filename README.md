@@ -14,4 +14,4 @@ NICE inContact Studio - Snippet Editor Hotkeys
 
 ## DEMO
 
-[](./docs/demo1.gif)
+![](./docs/demo1.gif)
